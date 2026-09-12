@@ -612,7 +612,7 @@ Found a bug or have a problem?
 
 Join the official Discord server:
 
-https://discord.gg/sailor-cross
+https://discord.gg/pwGwGkx8NC
 
 Please provide useful information when reporting problems, such as:
 
