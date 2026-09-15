@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "com.example.basic-plugin",
+  "name": "Basic Plugin",
+  "version": "1.0.0",
+  "author": "Example Developer",
+  "description": "Basic Nexus Realm plugin template",
+  "apiVersion": "1.0.0",
+  "entry": "plugin.wasm",
+  "permissions": [
+    "events.subscribe",
+    "logs.write"
+  ],
+  "subscriptions": [
+    "app.ready"
+  ]
+}

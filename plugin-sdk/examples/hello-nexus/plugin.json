@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "com.example.hello-nexus",
+  "name": "Hello Nexus",
+  "version": "1.0.0",
+  "author": "Nexus Realm",
+  "description": "Hello Nexus plugin for Nexus Realm",
+  "apiVersion": "1.0.0",
+  "entry": "plugin.wasm",
+  "permissions": [
+    "events.subscribe",
+    "logs.write"
+  ],
+  "subscriptions": [
+    "app.ready"
+  ]
+}

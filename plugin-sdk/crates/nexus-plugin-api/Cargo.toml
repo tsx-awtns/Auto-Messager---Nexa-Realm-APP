@@ -1,0 +1,18 @@
+# Nexus Realm
+# File: Cargo.toml
+# Purpose: Public Nexus Realm Plugin API v1 contract package
+
+[package]
+name = "nexus-plugin-api"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Public Nexus Realm Plugin API v1 contract shared by Nexus Realm and the plugin SDK"
+repository = "https://github.com/tsx-awtns/Auto-Messager---Nexa-Realm-APP"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+hex = "0.4"
+semver = "1"

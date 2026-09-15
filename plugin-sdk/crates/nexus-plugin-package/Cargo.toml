@@ -1,0 +1,14 @@
+# Nexus Realm
+# File: Cargo.toml
+# Purpose: Shared .nexusplugin container, integrity, and validation package
+
+[package]
+name = "nexus-plugin-package"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Nexus Realm .nexusplugin container format, integrity metadata, and shared package validation"
+repository = "https://github.com/tsx-awtns/Auto-Messager---Nexa-Realm-APP"
+
+[dependencies]
+nexus-plugin-api = { path = "../nexus-plugin-api", version = "0.1.0" }

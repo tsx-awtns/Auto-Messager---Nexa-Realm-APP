@@ -1,0 +1,5 @@
+C:\Users\shy24\Desktop\New-Windows\New-Windows\New-Windows\else\Sailor-Cross-App\plugin-sdk\target\release\build\serde_json-0797a7ec53fdc82a\build_script_build-0797a7ec53fdc82a.d: C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.151\build.rs
+
+C:\Users\shy24\Desktop\New-Windows\New-Windows\New-Windows\else\Sailor-Cross-App\plugin-sdk\target\release\build\serde_json-0797a7ec53fdc82a\build_script_build-0797a7ec53fdc82a.exe: C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.151\build.rs
+
+C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.151\build.rs:

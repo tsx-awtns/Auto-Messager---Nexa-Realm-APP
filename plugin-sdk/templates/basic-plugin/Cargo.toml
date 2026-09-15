@@ -1,0 +1,21 @@
+[package]
+name = "basic-plugin"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Nexus Realm plugin"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+nexus-plugin-sdk = { path = "../../crates/nexus-plugin-sdk", version = "0.1.0" }
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+
+[workspace]

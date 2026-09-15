@@ -1,0 +1,20 @@
+# Nexus Realm
+# File: Cargo.toml
+# Purpose: Plugin SDK workspace for the public plugin contract and developer tooling
+
+[workspace]
+resolver = "2"
+members = [
+    "crates/nexus-plugin-api",
+    "crates/nexus-plugin-package",
+    "crates/nexus-plugin-sdk",
+    "crates/nexus-plugin-cli",
+]
+
+[profile.release]
+opt-level = "z"
+lto = "fat"
+codegen-units = 1
+strip = true
+
+

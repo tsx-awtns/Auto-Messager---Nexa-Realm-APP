@@ -1,0 +1,10 @@
+C:\Users\shy24\Desktop\New-Windows\New-Windows\New-Windows\else\Sailor-Cross-App\plugin-sdk\target\release\deps\version_check-8d11e4d043cb8774.d: C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+C:\Users\shy24\Desktop\New-Windows\New-Windows\New-Windows\else\Sailor-Cross-App\plugin-sdk\target\release\deps\libversion_check-8d11e4d043cb8774.rlib: C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+C:\Users\shy24\Desktop\New-Windows\New-Windows\New-Windows\else\Sailor-Cross-App\plugin-sdk\target\release\deps\libversion_check-8d11e4d043cb8774.rmeta: C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs:
+C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs:
+C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs:
+C:\Users\shy24\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs:
